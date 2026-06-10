@@ -1,9 +1,9 @@
 # bot.java
-# 📚 EduBot - ChatBot Escolar em Java
+# 📚 Petrolino - ChatBot Escolar em Java
 
 ## 📝 Descrição do Projeto
 
-O **EduBot** é um chatbot escolar desenvolvido em Java com o objetivo de auxiliar alunos fornecendo respostas rápidas para dúvidas frequentes sobre a escola, como horários de aula, provas, cursos e funcionamento do laboratório.
+O **petrolino** é um chatbot escolar desenvolvido em Java com o objetivo de auxiliar alunos fornecendo respostas rápidas para dúvidas frequentes sobre a escola, como horários de aula, provas, cursos e funcionamento do laboratório.
 
 O projeto foi criado utilizando os princípios da **Programação Orientada a Objetos (POO)** e possui uma interface gráfica simples baseada em **JOptionPane**, permitindo a interação do usuário por meio de janelas.
 
